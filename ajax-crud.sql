@@ -33,7 +33,7 @@ CREATE TABLE `ajax-crud` (
   `lastname` varchar(30) NOT NULL,
   `emailid` varchar(30) NOT NULL,
   `mobileno` varchar(10) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 ;
 
 --
 -- Dumping data for table `ajax-crud`

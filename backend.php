@@ -1,5 +1,5 @@
 <?php 
-    $conn = new mysqli('localhost','root',"Kev@l8347",'ajax-crud');
+    $conn = new mysqli('localhost','root',"",'ajax-crud');
 
     extract($_POST);
 
